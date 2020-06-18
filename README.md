@@ -7,7 +7,13 @@ The method should print diagonals to generate a rectangular pattern composed of 
 
 
 EXAMPLE INPUT/OUTPUT:
-
+EXAMPLE 1
+printSquareStar(5); should print the following:
+*****
+** **
+* * *
+** **
+*****
 
 The patterns above consist of a number of rows and columns (where number is the number of rows to print). For each row or column, stars are printed based on four conditions (Read them carefully):
 
