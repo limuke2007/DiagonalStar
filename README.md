@@ -4,11 +4,7 @@ Write a method named printSquareStar with one parameter of type int named number
 If number is < 5, the method should print "Invalid Value".
 
 The method should print diagonals to generate a rectangular pattern composed of stars (*). This should be accomplished by using loops (see examples in the Java code).
-xxxxx
-xxxxx
-xxxxx
-xxxxx
-xxxxx
+
 The patterns consist of a number of rows and columns (where number is the number of rows to print). For each row or column, stars are printed based on four conditions (Read them carefully):
 
 * In the first or last row
