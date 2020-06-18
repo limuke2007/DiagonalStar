@@ -27,3 +27,25 @@ public class DiagonalStar {
 
     }
 }
+
+
+/* printed result:
+
+********
+**    **
+* *  * *
+*  **  *
+*  **  *
+* *  * *
+**    **
+********
+Printing another diagonal star
+*****
+** **
+* * *
+** **
+*****
+Printing another diagonal star
+Invalid Value
+
+*/
