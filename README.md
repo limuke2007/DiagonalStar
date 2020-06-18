@@ -11,14 +11,6 @@ EXAMPLE INPUT/OUTPUT:
 EXAMPLE 1
 
 printSquareStar(5); should print the following:
-
-*****
-** **
-* * *
-** **
-*****
-
-
 Explanation:
 
 *****   5 stars
