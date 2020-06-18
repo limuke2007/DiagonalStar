@@ -11,6 +11,11 @@ EXAMPLE INPUT/OUTPUT:
 EXAMPLE 1
 
 printSquareStar(5); should print the following:
+*****
+** **
+* * *
+** **
+*****
 Explanation:
 
 *****   5 stars
@@ -23,7 +28,6 @@ Explanation:
 EXAMPLE 2
 
 printSquareStar(8); should print the following:
-
 ********
 **    **
 * *  * *
@@ -32,8 +36,6 @@ printSquareStar(8); should print the following:
 * *  * *
 **    **
 ********
-
-
 The patterns above consist of a number of rows and columns (where number is the number of rows to print). For each row or column, stars are printed based on four conditions (Read them carefully):
 
 * In the first or last row
