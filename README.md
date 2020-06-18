@@ -12,8 +12,6 @@ EXAMPLE 1
 
 printSquareStar(5); should print the following:
 
-→ NOTE: For text in Code Blocks below, use code icon {...}  on Udemy
-
 *****
 ** **
 * * *
